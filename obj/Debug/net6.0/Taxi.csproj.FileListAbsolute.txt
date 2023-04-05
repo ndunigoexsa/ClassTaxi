@@ -1,0 +1,15 @@
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.csproj.AssemblyReference.cache
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfoInputs.cache
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.AssemblyInfo.cs
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.csproj.CoreCompileInputs.cache
+D:\belajar\pemrogaman\Taxi\bin\Debug\net6.0\Taxi.exe
+D:\belajar\pemrogaman\Taxi\bin\Debug\net6.0\Taxi.deps.json
+D:\belajar\pemrogaman\Taxi\bin\Debug\net6.0\Taxi.runtimeconfig.json
+D:\belajar\pemrogaman\Taxi\bin\Debug\net6.0\Taxi.dll
+D:\belajar\pemrogaman\Taxi\bin\Debug\net6.0\Taxi.pdb
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.dll
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\refint\Taxi.dll
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.pdb
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\Taxi.genruntimeconfig.cache
+D:\belajar\pemrogaman\Taxi\obj\Debug\net6.0\ref\Taxi.dll
